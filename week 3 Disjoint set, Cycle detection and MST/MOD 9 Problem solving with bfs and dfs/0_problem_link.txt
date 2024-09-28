@@ -1,0 +1,11 @@
+MOD 01 Problem solving witt BFS and DFS
+
+Problem List:
+
+
+1. https://leetcode.com/problems/island-perimeter/ 
+2. https://leetcode.com/problems/find-if-path-exists-in-graph/
+3. https://leetcode.com/problems/max-area-of-island/
+4. https://leetcode.com/problems/number-of-islands/ 
+5. https://leetcode.com/problems/count-sub-islands/
+6. https://leetcode.com/problems/number-of-closed-islands/

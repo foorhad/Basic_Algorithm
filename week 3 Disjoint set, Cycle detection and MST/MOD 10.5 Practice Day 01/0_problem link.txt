@@ -1,0 +1,23 @@
+                    Introduction to Algorithms
+                    Module 10.5: Practice Day 01
+                    (CSES and Geeksforgeeks)
+            ============================================
+            ============================================
+
+docs link: 
+https://docs.google.com/document/d/1vImBOWyuUFm0b1V5kAXGGF2xACb9Q_Zv/edit
+
+*Topics:
+    BFS
+    DFS
+    DSU
+    Cycle Detection
+
+
+CSES and Geeksforgeeks Links:
+
+CSES - Labyrinth = https://cses.fi/problemset/task/1193
+CSES - Building Roads = https://cses.fi/problemset/task/1666
+CSES - Message Route = https://cses.fi/problemset/task/1667
+Disjoint set (Union-Find)= https://www.geeksforgeeks.org/problems/disjoint-set-union-find/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab
+Detect Cycle using DSU | Practice | GeeksforGeeks (Optional)

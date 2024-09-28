@@ -1,0 +1,19 @@
+                Module 11.5: Practice Day 02
+                    (Online Judge Links)
+                ============================
+
+
+
+Topics:
+    DSU
+    Cycle Detection
+    MST
+
+Problem Links:
+
+Detect cycle in an undirected graph https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=bottom_sticky_on_article
+Minimum Spanning Tree | https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab
+Minimal Spanning Tree - Problems - https://www.eolymp.com/en/problems/3835
+CSES - Road Reparation = https://cses.fi/problemset/task/1675
+Problem - 25D - Codeforces = https://codeforces.com/problemset/problem/25/D
+(Optional. Read this tutorial - https://codeforces.com/blog/entry/594 ) 
