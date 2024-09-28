@@ -1,0 +1,14 @@
+            Today’s Problem list: https://docs.google.com/document/d/1clsG4bDZ5WdNURBDrtGrIeVAkLL-ec_xx6E2KmeAOHQ/edit
+            ====================
+
+Topic: 
+    1. bfs
+    2. Dijkstre 
+    3. Flyod warshall
+
+Minimum Knight moves = https://www.spoj.com/problems/NAKANJ/
+
+Shortest Routes II = https://cses.fi/problemset/task/1672
+
+
+Network Delay Time = https://leetcode.com/problems/network-delay-time/description/

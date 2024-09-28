@@ -1,0 +1,16 @@
+
+Problem Link:
+    https://codeforces.com/problemset/problem/20/C
+
+
+
+sample input :
+5 8
+1 2 1
+2 3 2
+3 4 4
+4 1 2
+1 5 10
+3 5 3
+2 5 7
+4 5 1

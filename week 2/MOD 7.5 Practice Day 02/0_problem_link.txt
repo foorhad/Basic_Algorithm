@@ -1,0 +1,16 @@
+Module 7.5: Practice Day 02
+        (Eolymp)
+=============================        
+https://docs.google.com/document/d/12kShR8b8pA6dDaJVw5-YU6u69Qymtunx/edit
+
+
+Topics:
+    Bellman Ford Algorithm
+    Floyd Warshall Algorithm
+
+
+Eolymp Links:
+
+Floyd - 1 - Problems - https://www.eolymp.com/en/problems/974
+Ford-Bellman - Problems - https://www.eolymp.com/en/problems/1453
+Floyd - Problems - https://www.eolymp.com/en/problems/975
