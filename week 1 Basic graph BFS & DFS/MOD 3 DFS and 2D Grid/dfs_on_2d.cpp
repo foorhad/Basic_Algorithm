@@ -3,11 +3,11 @@
 #define fast() ios_base::sync_with_stdio(0),cin.tie(0),cout.tie(0)
 const long long int INF = 1e18+5;
 using namespace std;
-
+const int N = 1e3+5;
 int r, c;
-char mat[20][20];
+char mat[N][N];
 vector<pair<int,int>>v={{0,1},{0,-1},{-1,0},{1,0}};
-bool vis[20][20]={false};
+bool vis[N][N]={false};
 
 bool valid(int i, int j){
     if(i>=0 && i<r && j>=0 && j<c)return true;
