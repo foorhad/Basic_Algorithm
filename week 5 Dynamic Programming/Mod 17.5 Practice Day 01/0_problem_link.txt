@@ -1,0 +1,23 @@
+https://docs.google.com/document/d/1wOSqYZlDa_XI1JoHsJ9t9O6Ao_-cjJlr/edit#heading=h.gjdgxs
+
+
+                    Introduction to Algorithms
+                    Module 17.5: Practice Day 01
+                    (CF, Leetcode, SPOJ Links)
+                ===================================
+
+
+
+Topics:
+    0-1 Knapsack
+    Making Choices
+
+
+Online Judge links:
+
+U. Knapsack
+W. Reach Value
+X. The maximum path-sum
+Min Cost Climbing Stairs - LeetCode
+House Robber - LeetCode
+SPOJ.com - Problem FARIDA

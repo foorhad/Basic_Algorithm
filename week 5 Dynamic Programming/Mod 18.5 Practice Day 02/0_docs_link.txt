@@ -1,0 +1,23 @@
+https://docs.google.com/document/d/1bXAlpF9p9JH1F74PUNLWDlSO8INmeUay/edit?pli=1
+
+
+                     Introduction to Algorithms
+                    Module 18.5: Practice Day 02
+            (Geeksforgeeks, Leetcode, Coding Ninjas Links)
+
+
+
+Topics:
+0-1 Knapsack Variations
+
+
+
+
+Online Judge links:
+
+Subset Sum Problem | Practice | GeeksforGeeks 
+Count Subsets with Sum K - Coding Ninjas 
+Partition Equal Subset Sum - LeetCode
+V. Creating Expression1
+Minimum sum partition | Practice | GeeksforGeeks
+Target Sum - LeetCode
