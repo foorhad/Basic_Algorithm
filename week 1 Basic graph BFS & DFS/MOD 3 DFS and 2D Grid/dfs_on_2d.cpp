@@ -20,7 +20,8 @@ void dfs(int i, int j)
     vis[i][j]=true;
     for(auto p : v) //o(v)
     { 
-        int child_i=i+p.first, child_j =j+p.second;
+        int child_i= i+p.first;
+        int child_j = j+p.second;
         if(valid(child_i,child_j) && !vis[child_i][child_j] && mat[child_i][child_j]=='.')
             dfs(child_i,child_j);
     }
